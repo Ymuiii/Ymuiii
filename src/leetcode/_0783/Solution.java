@@ -4,7 +4,6 @@ import util.TreeNode;
 
 public class Solution {
     public int minDiffInBST(TreeNode root) {
-
+        return 0;
     }
-
 }
